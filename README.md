@@ -1,2 +1,16 @@
-# IIM-admission-automated-system
-Developed a web-based admissions document management and automation platform using Python, Flask, SQLite, HTML, CSS, and JavaScript
+# IIM Admissions Automation System
+
+A web-based admissions document management automation platform developed using Flask, SQLite, HTML, CSS, and JavaScript.
+
+## Features
+- Secure document upload
+- File size and type validation
+- Applicant information management
+- Database integration
+
+## Tech Stack
+- Python
+- Flask
+- SQLite
+- HTML/CSS
+- JavaScript
