@@ -24,4 +24,5 @@ Confidentiality Notice
 This project was developed as part of an official institutional assignment. Due to confidentiality, data privacy requirements, and institutional ownership policies, the source code and database files are not publicly available in this repository. This repository is intended to showcase the project's architecture, functionality, technology stack, and my contributions while respecting confidentiality obligations.
 <img width="1600" height="823" alt="image (2)" src="https://github.com/user-attachments/assets/46b7528d-623a-4378-a4ce-d37c6d0f31b2" />
 
+<img width="1904" height="998" alt="image" src="https://github.com/user-attachments/assets/b2219461-ed94-46b7-85d6-55a02901bcce" />
 
